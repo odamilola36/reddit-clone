@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RedditCloneApplication<reddit-clone>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.lomari.redditclone.RedditCloneApplication",
+            "projectName": "reddit-clone",
+            "args": ""
+        }
+    ]
+}
